@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/Chikuwa0420=Chikuwa0420" />
+  <img src="https://komarev.com/ghpvc/?Chikuwa0420=Chikuwa0420" />
 </div>
 
 
@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @](https://twitter.com/username)
+- 📫 How to reach me: [Twitter - @IDrvkrS0Z970000](https://x.com/@IDrvkrS0Z970000)
 <br>
 
 
@@ -26,8 +26,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?Chikuwa0420=Chikuwa0420&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?Chikuwa0420=Chikuwa0420&theme=vue-dark&layout=compact" />
 </div>
 
 
